@@ -39,4 +39,14 @@ Fizz
 28
 29
 Fizz Buzz
-'''
+```
+
+
+## What's next 
+
+* Clone the repository.
+* Impliment the functionlity.
+* Impliment tests.
+* Company has decided to save the output to database but they are not sure to which database. We want you impliment code and   tests without the database code.
+* How do you improve the code if you spend more time ?
+ 
