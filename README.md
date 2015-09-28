@@ -7,7 +7,8 @@ What is Fizz Buzz ?
 
 https://en.wikipedia.org/wiki/Bizz_buzz
 
-Expected output
+## output should be 
+```
 1
 2
 Fizz
@@ -38,3 +39,4 @@ Fizz
 28
 29
 Fizz Buzz
+'''
